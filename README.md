@@ -1,24 +1,18 @@
 # Olá, eu sou o Matheus! 👋
 
-Estudante de Programação focado em dominar a stack Python. Atualmente, estou a revisitar os fundamentos e a aprofundar a lógica de programação para estar pronto para a minha primeira oportunidade de **estágio**.
+Seja bem-vindo ao meu perfil. Estou em transição de carreira para o desenvolvimento de software, focando atualmente no ecossistema Python.
 
-## 🚀 O que estou a fazer agora?
-- 🐍 Focado no **Mundo 2 do curso de Python** (Curso em Vídeo), dominando estruturas de repetição e condições aninhadas.
-- 🧠 **Construindo uma base sólida:** Dedicando-me diariamente ao estudo da lógica de programação para garantir que eu compreenda os fundamentos antes de avançar para tecnologias mais complexas.
-  
+## 🚀 O que estou estudando:
+- **Lógica de Programação:** Dominando algoritmos e estruturas de dados.
+- **Python:** Do básico ao avançado através de projetos práticos.
+- **Ferramentas:** Git, GitHub, PyCharm e boas práticas de código.
 
-## 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-## 🎯 Objetivos para 2026
-- Concluir os desafios de Python do mestre Guanabara.
-- Iniciar projetos com manipulação de dados e APIs.
-- Conquistar a minha primeira vaga como **Estagiário / Desenvolvedor Júnior**.
+## 📁 Destaque:
+Meu principal projeto no momento é o repositório de exercícios, onde documento cada passo do meu aprendizado:
+👉 [Acompanhe meus exercícios de Python aqui](https://github.com/Matt-96/python-exercicios-cursoemvideo)
 
 ---
-*“A persistência é o caminho do êxito.”*
 
-📫 **Como me encontrar:** [matheusdiasr9@gmail.com]
+### Vamos nos conectar?
+- [Meu LinkedIn](COLE_AQUI_O_LINK_DO_SEU_PERFIL)
+- 📍 Minas Gerais, Brasil.
